@@ -1,0 +1,15 @@
+D:\Защита данных\DataProtection\DataProtection\bin\Debug\DataProtection.exe.config
+D:\Защита данных\DataProtection\DataProtection\bin\Debug\DataProtection.exe
+D:\Защита данных\DataProtection\DataProtection\bin\Debug\DataProtection.pdb
+D:\Защита данных\DataProtection\DataProtection\obj\Debug\DataProtection.csproj.AssemblyReference.cache
+D:\Защита данных\DataProtection\DataProtection\obj\Debug\DataProtection.Entrance.resources
+D:\Защита данных\DataProtection\DataProtection\obj\Debug\DataProtection.Form1.resources
+D:\Защита данных\DataProtection\DataProtection\obj\Debug\DataProtection.Properties.Resources.resources
+D:\Защита данных\DataProtection\DataProtection\obj\Debug\DataProtection.csproj.GenerateResource.cache
+D:\Защита данных\DataProtection\DataProtection\obj\Debug\DataProtection.csproj.CoreCompileInputs.cache
+D:\Защита данных\DataProtection\DataProtection\obj\Debug\DataProtection.exe
+D:\Защита данных\DataProtection\DataProtection\obj\Debug\DataProtection.pdb
+D:\Защита данных\DataProtection\DataProtection\obj\Debug\DataProtection.Registration.resources
+D:\Защита данных\DataProtection\DataProtection\obj\Debug\DataProtection.PinCodeEntrance.resources
+D:\Защита данных\DataProtection\DataProtection\obj\Debug\DataProtection.Basic.resources
+D:\Защита данных\DataProtection\DataProtection\obj\Debug\DataProtection.PinCodeRegistration.resources
